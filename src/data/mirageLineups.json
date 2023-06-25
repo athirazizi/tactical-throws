@@ -1,0 +1,32 @@
+[
+    {
+        "map":"Mirage",
+        "grenadeType":"Smoke Grenade",
+        "lineup":"Fast Window Smoke",
+        "sourceLocation":"T Spawn",
+        "targetLocation":"Sniper's Nest",
+        "description":"Jump on the edge of the trash can. Aim between the wall and the border. Press and hold D, then jump throw.",
+        "video":"https://www.youtube.com/embed/jctSlSghHbU",
+        "date":"Jan 8, 2023"
+    },
+    {
+        "map":"Mirage",
+        "grenadeType":"Flashbang",
+        "lineup":"A Site Flash",
+        "sourceLocation":"Palace Alley",
+        "targetLocation":"A Site",
+        "description":"Position in the middle of the door. Aim at the top of the lamp, then throw.",
+        "video":"https://www.youtube.com/embed/Y7KolkmLO0E",
+        "date":"Jan 19, 2022"
+    },
+    {
+        "map":"Mirage",
+        "grenadeType":"Molotov",
+        "lineup":"Window One Way Molly",
+        "sourceLocation":"Sniper's Nest",
+        "targetLocation":"Middle",
+        "description":"Break the vent. Position in the corner of the wood planks. Aim at the top right of the square, then throw.",
+        "video":"https://www.youtube.com/embed/8RWzlFjw-y0",
+        "date":"Nov 30, 2022"   
+    }
+]

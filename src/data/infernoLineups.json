@@ -1,0 +1,32 @@
+[
+    {
+        "map":"Inferno",
+        "grenadeType":"Smoke Grenade",
+        "lineup":"Fast Arch Smoke",
+        "sourceLocation":"Second Mid",
+        "targetLocation":"Arch",
+        "description":"Go the stair corner. Aim at the bottom of the lamp, then jump throw.",
+        "video":"https://www.youtube.com/embed/y02BlyijXok",
+        "date":"Apr 27, 2022"
+    },
+    {
+        "map":"Inferno",
+        "grenadeType":"Flashbang",
+        "lineup":"Boiler Pop Flash",
+        "sourceLocation":"Boiler",
+        "targetLocation":"Top Mid",
+        "description":"Position at the right of the curtain. Aim at the top of the railing, then throw.",
+        "video":"https://www.youtube.com/embed/HQncsi3mbKs",
+        "date":"Apr 27, 2022"
+    },
+    {
+        "map":"Inferno",
+        "grenadeType":"Molotov",
+        "lineup":"Porch Molly",
+        "sourceLocation":"Middle",
+        "targetLocation":"Porch",
+        "description":"Position at the edge of the orange wall. Aim at the bottom right of the balcony, then throw.",
+        "video":"https://www.youtube.com/embed/adfUW4GVxYM",
+        "date":"Jan 9, 2023"
+    }
+]

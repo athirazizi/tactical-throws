@@ -1,70 +1,78 @@
-# Getting Started with Create React App
+# TacticalThrows
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+TacticalThrows is an informational website aimed for new and experienced CSGO players who are looking to improve their understanding of grenade lineups. It provides a user-friendly UI which encapsulates this game knowledge into one convenient hub.
+
+The website features filterable maps, locations, and grenade types. The lineups  are detailed with visual aids like images and videos to help players learn them. It also provides a comprehensive overview on the grenades and how to use them on each map.
+
+Users can also submit their lineups using a form.
 
 ## Available Scripts
 
-In the project directory, you can run:
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The front-end user interface was created using [MDB](https://mdbootstrap.com/).
+Open the project folder using VS Code and in the project directory, you can start the website using:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+This runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Pages
 
-### `npm test`
+Here is an overview of the different pages throughout the website:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<div style="page-break-after: always;"></div>
 
-### `npm run build`
+## Home page
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The homepage of the website. Acts as the entrypoint for the user to access other pages, and features a certain lineup of the day.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<img src="https://i.imgur.com/xpUZdJt.png">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<div style="page-break-after: always;"></div>
 
-### `npm run eject`
+## Mirage page
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Contains grenade lineups for the latest version (December 9, 2020) of the defuse map Mirage (`de_mirage`).
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<img src="https://i.imgur.com/YO3BZW4.png">
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<div style="page-break-after: always;"></div>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Dust II page
 
-## Learn More
+Contains grenade lineups for the latest version (September 21, 2021) of the defuse map Dust II (`de_dust2`).
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<img src="https://i.imgur.com/enurQ3z.png">
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<div style="page-break-after: always;"></div>
 
-### Code Splitting
+## Inferno page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Contains grenade lineups for the latest version (June 15, 2022) of the defuse map Inferno (`de_inferno`).
 
-### Analyzing the Bundle Size
+<img src="https://i.imgur.com/S6pnIYy.png">
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<div style="page-break-after: always;"></div>
 
-### Making a Progressive Web App
+## Grenades page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Contains an overview for Smoke Grenades (`weapon_smokegrenade`), Flashbangs (`weapon_flashbang`), and Molotovs (`weapon_molotov`)/Incendiary Grenades (`weapon_incgrenade`).
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<img src="https://i.imgur.com/0Y4GsEa.png">
 
-### Deployment
+<div style="page-break-after: always;"></div>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## About page
 
-### `npm run build` fails to minify
+Contains the purpose, intention, and motivations behind the development of the website.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img src="https://i.imgur.com/yV7iGke.png">
+
+<div style="page-break-after: always;"></div>
+
+## Submit lineup page
+
+Allows users to submit their lineup details through a form.
+
+<img src="https://i.imgur.com/sIumkQe.png">

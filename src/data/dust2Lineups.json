@@ -1,0 +1,32 @@
+[
+    {
+        "map":"Dust 2",
+        "grenadeType":"Smoke Grenade",
+        "lineup":"Xbox Smoke",
+        "sourceLocation":"T Spawn",
+        "targetLocation":"Xbox",
+        "description":"Go to the corner of the wall. Align with the bottom left window, then jump throw.",
+        "video":"https://www.youtube.com/embed/jBjHluCBuAg",
+        "date":"Jan 8, 2023"
+    },
+    {
+        "map":"Dust 2",
+        "grenadeType":"Flashbang",
+        "lineup":"B Site Pop Flash",
+        "sourceLocation":"Outside B",
+        "targetLocation":"B Site",
+        "description":"Position in the corner of the boxes. Aim at the white wall, then throw.",
+        "video":"https://www.youtube.com/embed/q7h0k0uoW9k",
+        "date":"Oct 12, 2017"
+    },
+    {
+        "map":"Dust 2",
+        "grenadeType":"Molotov",
+        "lineup":"Long Doors Molly",
+        "sourceLocation":"Car",
+        "targetLocation":"Long Doors",
+        "description":"Jump on the car. Aim at the right of the garage door, then jump throw.",
+        "video":"https://www.youtube.com/embed/G6TYFUKm7WA",
+        "date":"Jan 8, 2023"
+    }
+]
